@@ -1,0 +1,8 @@
+# Deep--Learning-Indaba-practicals
+echo "# Deep--Learning-Indaba-practicals" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/handyworkz/Deep--Learning-Indaba-practicals.git
+git push -u origin main
